@@ -15,3 +15,8 @@ to take a chance on some wild feature that might not pan out.
 Q: How do the diagrams help you visualize the branch structure?
 A: The diagrams help me visualize the branch structure since I can see the individual paths
 each branch takes and can follow path to its parent branch.
+
+Q: What is the result of merging two branches together? Why do we represent in the diagram
+the way we do?
+A:  The result of merging two branches together is a new of the master branch and the other
+branch could just be deleted.
