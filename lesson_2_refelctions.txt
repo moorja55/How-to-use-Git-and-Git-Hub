@@ -10,4 +10,8 @@ How would branches help?
 A: Some situations when branches would be helpful in keeping your history organized is when
 when trying out experimental features that may or may not work out in the long run. Branches 
 would help by being able to still have a function game with the core features but then be able
-to take a chance on some wild feature that might not pan out. 
+to take a chance on some wild feature that might not pan out.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: The diagrams help me visualize the branch structure since I can see the individual paths
+each branch takes and can follow path to its parent branch.
